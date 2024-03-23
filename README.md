@@ -39,7 +39,7 @@ The following **additional** features are implemented:
 - [ ] List anything else that you can get done to improve the app functionality!
 
 ## Video Walkthrough
-
+[![Video Title](http://img.youtube.com/vi/u-dSp5rZNxA/0.jpg)](https://www.youtube.com/shorts/u-dSp5rZNxA)
 
 
 ## Notes
